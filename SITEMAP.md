@@ -1,0 +1,62 @@
+# 站点地图速查
+
+- index.md: https://bot.fmcat.top/
+- Grok 和 Grok Bot 有什么区别: https://bot.fmcat.top/part1/grok-vs-grok-bot
+- 第 1 章 Grok Bot 是什么：一个自带电脑的 AI 同事: https://bot.fmcat.top/part1/01-what-is
+- 第 2 章 方案与订阅：先选对档位: https://bot.fmcat.top/part1/02-plans
+- 第 3 章 安装登录与第一个 Bot: https://bot.fmcat.top/part1/03-install
+- 第 4 章 交代任务：消息、附件与一次好的交接: https://bot.fmcat.top/part1/04-handoff
+- 第 5 章 共享云电脑：文件、浏览器与接管: https://bot.fmcat.top/part1/05-computer
+- 第 6 章 记忆：让 Bot 越用越懂你: https://bot.fmcat.top/part1/06-memory
+- 第 7 章 连接应用：插件、邮箱与 Secrets: https://bot.fmcat.top/part1/07-apps
+- 第 8 章 技能与例程：把一次成功变成每天自动跑: https://bot.fmcat.top/part1/08-skills-routines
+- 第 9 章 群聊与团队 Bot：从一个 Bot 到一组 Bot: https://bot.fmcat.top/part1/09-group-team
+- 第 10 章 额度与成本：让一周用量撑满一周: https://bot.fmcat.top/part1/10-usage
+- 第 11 章 权限、安全与人闸: https://bot.fmcat.top/part1/11-safety
+- 第 12 章 案例：自媒体与内容团队: https://bot.fmcat.top/part2/12-content
+- 第 13 章 案例：在 X 上做内容与运营: https://bot.fmcat.top/part2/13-x-ops
+- 第 14 章 案例：工程与研发团队: https://bot.fmcat.top/part2/14-engineering
+- 第 15 章 案例：电商与生活实操: https://bot.fmcat.top/part2/15-ecommerce
+- 第 16 章 案例：知识自动入库与微信打通: https://bot.fmcat.top/part2/16-knowledge
+- 第 17 章 案例：GTM、销售与幕僚长: https://bot.fmcat.top/part2/17-gtm
+- 第 18 章 案例：一人公司与 AI 团队: https://bot.fmcat.top/part2/18-solo
+- 第 19 章 团队编排：章程、岗位与放权: https://bot.fmcat.top/part3/19-orchestration
+- 第 20 章 可靠的自动化：定时、Webhook 与事件触发: https://bot.fmcat.top/part3/20-automation
+- 第 21 章 备份与恢复：电脑重置也不慌: https://bot.fmcat.top/part3/21-backup
+- 第 22 章 接入飞书与微信: https://bot.fmcat.top/part3/22-feishu-wechat
+- 第 23 章 团队版与企业落地: https://bot.fmcat.top/part4/23-enterprise
+- 第 24 章 按岗位组建你的 AI 团队: https://bot.fmcat.top/part4/24-roles
+- 第 25 章 常见问题与排错: https://bot.fmcat.top/part4/25-faq
+- 案例库: https://bot.fmcat.top/cases/
+- 中文长文精选: https://bot.fmcat.top/cases/cn
+- 英文长文精选（上）: https://bot.fmcat.top/cases/en1
+- 英文长文精选（下）: https://bot.fmcat.top/cases/en2
+- 铁柱的实战长文与推文: https://bot.fmcat.top/cases/tiezhu
+- X 热帖案例精选: https://bot.fmcat.top/cases/x-hot
+- tools__index.md: https://bot.fmcat.top/tools/
+- bots__index.md: https://bot.fmcat.top/bots/
+- ecosystem__index.md: https://bot.fmcat.top/ecosystem/
+- ecosystem__grok-bot-clipper.md: https://bot.fmcat.top/ecosystem/grok-bot-clipper
+- changelog__index.md: https://bot.fmcat.top/changelog/
+- 关于铁柱AGI: https://bot.fmcat.top/about
+- 付费答疑群: https://bot.fmcat.top/group
+
+## 工具页
+- agently-cli: https://bot.fmcat.top/tools/agently-cli
+- agy: https://bot.fmcat.top/tools/agy
+- claude-code: https://bot.fmcat.top/tools/claude-code
+- codex: https://bot.fmcat.top/tools/codex
+- cursor-cli: https://bot.fmcat.top/tools/cursor-cli
+- egress-proxy: https://bot.fmcat.top/tools/egress-proxy
+- feishu-bot: https://bot.fmcat.top/tools/feishu-bot
+- ffmpeg: https://bot.fmcat.top/tools/ffmpeg
+- gemini-cli: https://bot.fmcat.top/tools/gemini-cli
+- gh: https://bot.fmcat.top/tools/gh
+- lark-cli: https://bot.fmcat.top/tools/lark-cli
+- mcp-connectors: https://bot.fmcat.top/tools/mcp-connectors
+- muse2api: https://bot.fmcat.top/tools/muse2api
+- nodejs: https://bot.fmcat.top/tools/nodejs
+- pi: https://bot.fmcat.top/tools/pi
+- playwright: https://bot.fmcat.top/tools/playwright
+- x-api: https://bot.fmcat.top/tools/x-api
+- yt-dlp: https://bot.fmcat.top/tools/yt-dlp
