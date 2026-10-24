@@ -1,0 +1,58 @@
+673	plain=582	html=2047	关于铁柱AGI	about.md	about.md
+0	plain=0	html=0	Bot 直聘	bots/index.md	bots__index.md
+6081	plain=5158	html=20433	中文长文精选	cases/cn.md	cases__cn.md
+6008	plain=5269	html=17681	英文长文精选（上）	cases/en1.md	cases__en1.md
+6364	plain=5685	html=19379	英文长文精选（下）	cases/en2.md	cases__en2.md
+1003	plain=964	html=2028	案例库	cases/index.md	cases__index.md
+6379	plain=5499	html=18240	铁柱的实战长文与推文	cases/tiezhu.md	cases__tiezhu.md
+8141	plain=7611	html=18339	X 热帖案例精选	cases/x-hot.md	cases__x-hot.md
+0	plain=0	html=0	更新日志	changelog/index.md	changelog__index.md
+0	plain=0	html=0	Grok Bot Clipper 浏览器插件	ecosystem/grok-bot-clipper.md	ecosystem__grok-bot-clipper.md
+0	plain=0	html=0	周边生态	ecosystem/index.md	ecosystem__index.md
+309	plain=285	html=836	付费答疑群	group.md	group.md
+0	plain=0	html=0	Grok Bot 新手指南：Grok Bot 中文教程与实战案例	index.md	index.md
+5929	plain=5323	html=14965	第 1 章 Grok Bot 是什么：一个自带电脑的 AI 同事	part1/01-what-is.md	part1__01-what-is.md
+6993	plain=6245	html=18026	第 2 章 方案与订阅：先选对档位	part1/02-plans.md	part1__02-plans.md
+5270	plain=4750	html=14969	第 3 章 安装登录与第一个 Bot	part1/03-install.md	part1__03-install.md
+6783	plain=6059	html=20454	第 4 章 交代任务：消息、附件与一次好的交接	part1/04-handoff.md	part1__04-handoff.md
+6594	plain=5996	html=16824	第 5 章 共享云电脑：文件、浏览器与接管	part1/05-computer.md	part1__05-computer.md
+6347	plain=5817	html=19665	第 6 章 记忆：让 Bot 越用越懂你	part1/06-memory.md	part1__06-memory.md
+4995	plain=4395	html=14746	第 7 章 连接应用：插件、邮箱与 Secrets	part1/07-apps.md	part1__07-apps.md
+7892	plain=6980	html=22587	第 8 章 技能与例程：把一次成功变成每天自动跑	part1/08-skills-routines.md	part1__08-skills-routines.md
+6715	plain=5884	html=17971	第 9 章 群聊与团队 Bot：从一个 Bot 到一组 Bot	part1/09-group-team.md	part1__09-group-team.md
+8664	plain=7769	html=23136	第 10 章 额度与成本：让一周用量撑满一周	part1/10-usage.md	part1__10-usage.md
+8367	plain=7568	html=22535	第 11 章 权限、安全与人闸	part1/11-safety.md	part1__11-safety.md
+2308	plain=2122	html=4274	Grok 和 Grok Bot 有什么区别	part1/grok-vs-grok-bot.md	part1__grok-vs-grok-bot.md
+11800	plain=10954	html=31598	第 12 章 案例：自媒体与内容团队	part2/12-content.md	part2__12-content.md
+9422	plain=8659	html=22579	第 13 章 案例：在 X 上做内容与运营	part2/13-x-ops.md	part2__13-x-ops.md
+11433	plain=10472	html=35867	第 14 章 案例：工程与研发团队	part2/14-engineering.md	part2__14-engineering.md
+6479	plain=5676	html=19335	第 15 章 案例：电商与生活实操	part2/15-ecommerce.md	part2__15-ecommerce.md
+5056	plain=4496	html=14367	第 16 章 案例：知识自动入库与微信打通	part2/16-knowledge.md	part2__16-knowledge.md
+16654	plain=15738	html=36403	第 17 章 案例：GTM、销售与幕僚长	part2/17-gtm.md	part2__17-gtm.md
+10535	plain=9605	html=28710	第 18 章 案例：一人公司与 AI 团队	part2/18-solo.md	part2__18-solo.md
+12358	plain=11424	html=32711	第 19 章 团队编排：章程、岗位与放权	part3/19-orchestration.md	part3__19-orchestration.md
+6742	plain=6099	html=25566	第 20 章 可靠的自动化：定时、Webhook 与事件触发	part3/20-automation.md	part3__20-automation.md
+8496	plain=7906	html=21423	第 21 章 备份与恢复：电脑重置也不慌	part3/21-backup.md	part3__21-backup.md
+6309	plain=5733	html=16250	第 22 章 接入飞书与微信	part3/22-feishu-wechat.md	part3__22-feishu-wechat.md
+11021	plain=10010	html=32206	第 23 章 团队版与企业落地	part4/23-enterprise.md	part4__23-enterprise.md
+9009	plain=8420	html=24680	第 24 章 按岗位组建你的 AI 团队	part4/24-roles.md	part4__24-roles.md
+7697	plain=6644	html=20895	第 25 章 常见问题与排错	part4/25-faq.md	part4__25-faq.md
+407	plain=370	html=1362	agently-cli（Agent 邮箱命令行）	tools/agently-cli.md	tools__agently-cli.md
+439	plain=398	html=1523	Antigravity CLI（agy）	tools/agy.md	tools__agy.md
+397	plain=362	html=1257	Claude Code	tools/claude-code.md	tools__claude-code.md
+458	plain=420	html=1405	Codex CLI	tools/codex.md	tools__codex.md
+398	plain=360	html=1367	Cursor CLI	tools/cursor-cli.md	tools__cursor-cli.md
+394	plain=360	html=1245	固定出口代理（SSH 隧道）	tools/egress-proxy.md	tools__egress-proxy.md
+448	plain=411	html=1393	飞书机器人长连接	tools/feishu-bot.md	tools__feishu-bot.md
+316	plain=284	html=1165	FFmpeg	tools/ffmpeg.md	tools__ffmpeg.md
+447	plain=410	html=1420	Gemini CLI	tools/gemini-cli.md	tools__gemini-cli.md
+434	plain=397	html=1414	GitHub CLI（gh）	tools/gh.md	tools__gh.md
+0	plain=0	html=0	Grok 云电脑工具箱	tools/index.md	tools__index.md
+396	plain=362	html=1252	飞书 CLI（lark-cli）	tools/lark-cli.md	tools__lark-cli.md
+384	plain=350	html=1241	MCP 连接器	tools/mcp-connectors.md	tools__mcp-connectors.md
+408	plain=374	html=1272	muse2api	tools/muse2api.md	tools__muse2api.md
+340	plain=305	html=1259	Node.js 与 npm	tools/nodejs.md	tools__nodejs.md
+398	plain=358	html=1426	Pi Coding Agent	tools/pi.md	tools__pi.md
+348	plain=316	html=1205	Playwright	tools/playwright.md	tools__playwright.md
+449	plain=415	html=1356	X API 发帖（OAuth 1.0a PIN）	tools/x-api.md	tools__x-api.md
+344	plain=310	html=1200	yt-dlp	tools/yt-dlp.md	tools__yt-dlp.md
